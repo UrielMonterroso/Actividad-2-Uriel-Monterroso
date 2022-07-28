@@ -1,0 +1,46 @@
+*{
+    margin: 10;
+    padding: 10;
+    color: brown;
+    background-color: #EDEAEA;
+    
+}
+h1{
+    color: green;
+}
+h3{
+    color: red;
+}
+
+#main{
+    color: orange;
+}
+
+.footer{
+    color: pink;
+}
+
+.options{
+    color: orange;
+}
+
+.boton{
+    color: black;
+    margin: 0%;
+    padding: 0.1cm;
+}
+
+.fila1{
+    color: black;
+}
+
+p {
+    color: gray;
+}
+
+.table th, td{
+    margin: 0%;
+    padding: 1%;
+    Width: 5%;
+    border: 1px solid;
+}
